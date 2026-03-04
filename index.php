@@ -1,4 +1,4 @@
 <?php
 echo "Hello World!!!";
-echo "Deployment testing!";
+echo "Deployment testing! - testing autodeploy . ";
 ?>
